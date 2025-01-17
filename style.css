@@ -1,0 +1,286 @@
+
+*{
+    padding: 10px 0px;
+}
+.banner1{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: white;
+    height: 50px;
+    width: 1300px;
+    
+}
+
+.abc{
+    
+    border: 1px solid green;
+    border-radius: 5px;
+    background-color: white;
+    color: green;
+}
+
+.bd1{
+    color: rgba(14, 14, 14, 0.5);
+}
+
+
+.bg{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(198, 228, 214);
+    height: 350px;
+    width: 1300px;
+}
+.hero{
+   
+    height: 300px;
+    width: 200px;
+    float: right;
+}
+.text{
+    width: 200px;
+height: 201px;
+margin: 10px;
+text-size-adjust: 30px;
+}
+
+.button1{
+ 
+    position: static;
+    width: 300px;
+    height: 22px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48;
+    padding: 17px 34px;
+    color: white;
+    border-radius: 5px;
+    background: rgb(0, 106, 80);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.pillars{
+    display: flex;
+}
+
+.innovation, .sustainability, .infrastructure, .empowerment{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+
+.vision{
+    display: flex;
+}
+
+.l1{
+    background-color: rgb(84, 144, 245);
+}
+.l2{
+    background-color: rgb(9, 161, 92);
+}
+.l3{
+    background-color: rgb(255, 194, 57);
+}
+
+
+.l3, .l2, .l1{
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 122px;
+    height: 41px;
+}
+
+.green{
+    border: 1px solid rgb(198, 228, 214);
+    background-color: rgb(198, 228, 214);
+}
+.modern{
+    border: 1px solid rgb(247, 235, 207);
+    background-color: rgb(247, 235, 207);
+}
+.digital{
+    border: rgba(84, 144, 245, 0.2);
+    background-color: rgba(84, 144, 245, 0.2);
+}
+
+.green, .modern, .digital{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 300px;
+}
+
+.dra{
+    position: relative;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+    width: 1280px;
+    height: 250px;
+    background-color: white;
+    box-shadow: 0 4px 8px wheat;
+}
+
+
+
+
+.dr{
+    position: absolute;
+    top: 0;
+}
+
+.select{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 5px;
+    margin: 5px;
+    background-color: rgb(198, 228, 214);
+}
+
+.do1, .do2, .do3{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 5px;
+    margin: 5px;
+}
+
+.satellite{
+    display: flex;
+    box-shadow: 0 4px 8px wheat;
+    border-radius: 10px;
+}
+
+.satellite1{
+    margin: 10px;
+}
+
+.read1{
+    background-color: rgb(0, 106, 80);
+    border: none;
+    border-radius: 5px;
+    width: 122px;
+    height: 41px;
+    color: white;
+}
+
+.donate1{
+    text-align: center;
+}
+
+.donate2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    height: 100px;
+    
+}
+
+.tk {
+    background-color: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px 20px;
+    color: #333;
+    width: 150px;
+    height: 64px;
+    font-size: larger;
+  }
+
+  #tk1{
+    background-color: rgb(198, 228, 214);
+  }
+
+  .input-container {
+    
+    margin: auto;
+  width: 40%;
+  padding: 10px;
+  }
+  
+  .amount-input {
+    width: 100%;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    font-size: 16px;
+    color: #666;
+    box-sizing: border-box;
+    justify-content: center;
+  }
+
+  .amount-input::placeholder {
+    color: rgba(14, 14, 14, 0.3);
+    font-size: 14px;
+    text-align: center;
+  }
+
+  .done{
+    background-color: rgb(0, 106, 80);
+    border: none;
+    border-radius: 5px;
+    width: 122px;
+    height: 41px;
+    color: white;
+    margin: auto;
+    padding: 10px;
+  }
+
+  .done1{
+    text-align: center;
+  }
+
+  .sub1{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(198, 228, 214);
+    height: 300px;
+    width: 1300px;
+    text-align: center;
+}
+
+.input2{
+    
+    margin: auto;
+  width: 40%;
+  padding: 10px;
+  }
+
+  .sub{
+    background-color: rgb(0, 106, 80);
+    border: none;
+    color: white;
+    width: 100px;
+  }
+
+  .bang1{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    height: 100px;
+    width: 1300px;
+    text-align: center;
+  }
+
+  .s1, .s2, .s3{
+   
+    width: 20px;
+    padding: 5px;
+  }
